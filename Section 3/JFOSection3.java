@@ -4,7 +4,6 @@ public class JavaLibsPractice {
 
     public static void main(String[] args) {
 
-        //application logic here
         //Customize the InputDialog (title, the placement text etc)
         //ShowMessageDialog doesn't provide a field for input (done)
         String name = JOptionPane.showInputDialog("Hi! Whats your name?");
